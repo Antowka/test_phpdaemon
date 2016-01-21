@@ -1,0 +1,43 @@
+[Thu, 21 Jan 2016 14:48:08.685987 +0000] M#1726 \PHPDaemon\Core\Pool:HTTPServer up.
+[Thu, 21 Jan 2016 14:48:08.686540 +0000] ClassFinder: 'HTTPServer' -> '\PHPDaemon\Servers\HTTP\Pool', you should change your code.
+[Thu, 21 Jan 2016 14:48:08.704827 +0000] M#1726 \PHPDaemon\Core\Pool:YouServer\Overrides\Clients\MySql up.
+[Thu, 21 Jan 2016 14:48:08.705766 +0000] \PHPDaemon\YouServer\Overrides\Clients\MySql class not exists.
+[Thu, 21 Jan 2016 14:48:08.705980 +0000] M#1726 \PHPDaemon\Core\Pool:\PHPDaemon\Servers\HTTP\Pool up.
+[Thu, 21 Jan 2016 14:48:08.739544 +0000] W#1728 \PHPDaemon\Clients\WebSocket\Example up.
+[Thu, 21 Jan 2016 14:48:08.804318 +0000] W#1728 \PHPDaemon\Core\Pool:\PHPDaemon\YouServer\Overrides\Clients\MySql up.
+[Thu, 21 Jan 2016 14:48:08.804655 +0000] \PHPDaemon\YouServer\Overrides\Clients\MySql class not exists.
+[Thu, 21 Jan 2016 14:48:12.439545 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: foobar
+[Thu, 21 Jan 2016 14:48:37.741476 +0000] M#1735 \PHPDaemon\Core\Pool:HTTPServer up.
+[Thu, 21 Jan 2016 14:48:37.741880 +0000] ClassFinder: 'HTTPServer' -> '\PHPDaemon\Servers\HTTP\Pool', you should change your code.
+[Thu, 21 Jan 2016 14:48:37.760110 +0000] M#1735 \PHPDaemon\Core\Pool:Clients\MySql up.
+[Thu, 21 Jan 2016 14:48:37.763140 +0000] \PHPDaemon\Clients\MySql class not exists.
+[Thu, 21 Jan 2016 14:48:37.763668 +0000] M#1735 \PHPDaemon\Core\Pool:\PHPDaemon\Servers\HTTP\Pool up.
+[Thu, 21 Jan 2016 14:48:37.831560 +0000] W#1737 \PHPDaemon\Clients\WebSocket\Example up.
+[Thu, 21 Jan 2016 14:48:37.893505 +0000] W#1737 \PHPDaemon\Core\Pool:\PHPDaemon\Clients\MySql up.
+[Thu, 21 Jan 2016 14:48:37.893821 +0000] \PHPDaemon\Clients\MySql class not exists.
+[Thu, 21 Jan 2016 14:48:39.556116 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: foobar
+[Thu, 21 Jan 2016 14:49:10.415449 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: 
+[Thu, 21 Jan 2016 14:49:33.952868 +0000] M#1743 \PHPDaemon\Core\Pool:HTTPServer up.
+[Thu, 21 Jan 2016 14:49:33.953607 +0000] ClassFinder: 'HTTPServer' -> '\PHPDaemon\Servers\HTTP\Pool', you should change your code.
+[Thu, 21 Jan 2016 14:49:33.968747 +0000] M#1743 \PHPDaemon\Core\Pool:\Clients\MySql up.
+[Thu, 21 Jan 2016 14:49:33.970031 +0000] \Clients\MySql class not exists.
+[Thu, 21 Jan 2016 14:49:33.970617 +0000] M#1743 \PHPDaemon\Core\Pool:\PHPDaemon\Servers\HTTP\Pool up.
+[Thu, 21 Jan 2016 14:49:34.003135 +0000] W#1745 \PHPDaemon\Clients\WebSocket\Example up.
+[Thu, 21 Jan 2016 14:49:36.076151 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: foobar
+[Thu, 21 Jan 2016 14:49:44.201503 +0000] M#1752 \PHPDaemon\Core\Pool:HTTPServer up.
+[Thu, 21 Jan 2016 14:49:44.201952 +0000] ClassFinder: 'HTTPServer' -> '\PHPDaemon\Servers\HTTP\Pool', you should change your code.
+[Thu, 21 Jan 2016 14:49:44.215939 +0000] M#1752 \PHPDaemon\Core\Pool:\Clients\MySql up.
+[Thu, 21 Jan 2016 14:49:44.217267 +0000] \Clients\MySql class not exists.
+[Thu, 21 Jan 2016 14:49:44.217686 +0000] M#1752 \PHPDaemon\Core\Pool:\PHPDaemon\Servers\HTTP\Pool up.
+[Thu, 21 Jan 2016 14:49:44.251583 +0000] W#1754 \PHPDaemon\Clients\WebSocket\Example up.
+[Thu, 21 Jan 2016 14:49:46.408870 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: foobar
+[Thu, 21 Jan 2016 14:50:16.440336 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: 
+[Thu, 21 Jan 2016 14:50:35.668237 +0000] M#1761 \PHPDaemon\Core\Pool:HTTPServer up.
+[Thu, 21 Jan 2016 14:50:35.669386 +0000] ClassFinder: 'HTTPServer' -> '\PHPDaemon\Servers\HTTP\Pool', you should change your code.
+[Thu, 21 Jan 2016 14:50:35.681077 +0000] M#1761 \PHPDaemon\Core\Pool:\Clients\MySql up.
+[Thu, 21 Jan 2016 14:50:35.682198 +0000] \Clients\MySql class not exists.
+[Thu, 21 Jan 2016 14:50:35.682683 +0000] M#1761 \PHPDaemon\Core\Pool:\PHPDaemon\Servers\HTTP\Pool up.
+[Thu, 21 Jan 2016 14:50:35.714115 +0000] W#1763 \PHPDaemon\Clients\WebSocket\Example up.
+[Thu, 21 Jan 2016 14:50:38.581481 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: foobar
+[Thu, 21 Jan 2016 14:51:08.651317 +0000] PHPDaemon\Clients\WebSocket\Example: Got frame: 
+[Thu, 21 Jan 2016 14:52:13.021458 +0000] W#1763 PHPDaemon\Core\AppResolver::getInstance: unable to find application class "\\PHPDaemon\\Test\\Test"'
